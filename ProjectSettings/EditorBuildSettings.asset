@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: cca9a0b78d5181046ab29774b794f076
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: fab90e4a046b379419975a0728c69140
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: bfa4576d278386e42ad8395690b6a650
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: c1a4d51a3a4a8664093b65e0df5fcb08
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 56a126422c68b4d46acf8fcfef14bec4
+  - enabled: 1
+    path: Assets/Scenes/Ending2.unity
+    guid: 6281aeb03ff52b54090d1a47c589da32
+  - enabled: 1
+    path: Assets/Scenes/WrongDoor.unity
+    guid: 55837cc05a9a0ae4485a11fe337f0e88
+  - enabled: 1
+    path: Assets/Scenes/BadEnding.unity
+    guid: 8d692100f05ba7b4e95b69980e87fd7c
+  m_configObjects: {}
